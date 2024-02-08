@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}    
+.header
+{
+background-color: royalblue;
+height: 100px;
+text-align: center;
+}
+.middle
+{
+    display: flex;
+    background-color: greenyellow;
+    height: 800px;
+}
+.left_menu
+{
+    background-color: rgb(138, 9, 9);
+    height: 100%;
+    width: 25%;
+}
+.middle_menu
+{
+    background-color:rgb(43, 165, 64);
+    height: 100%;
+    width: 50%;
+}
+.right_menu
+{
+    background-color: rgb(78, 35, 119);
+    height: 100%
+    width: 25%;
+}
+.footer
+{
+    background-color:yellow;
+    height: 100px;
+    text-align: center;
+}
